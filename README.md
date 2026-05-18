@@ -17,15 +17,15 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/a/gjdSiVH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/5c6wX8i.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
-GIF created with Kap 
+GIF created with Kap
 
 ## Notes
 
